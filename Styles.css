@@ -1,0 +1,298 @@
+
+    .body{
+        
+        font-family: 'Merriweather', serif;
+        text-align: center;
+        margin: 0;
+        color:black
+        
+         
+    }
+    h1{
+        font-family: 'Sacramento', cursive;
+        margin:50px auto 0 auto;
+        font-size: 5.575rem;
+        color: #66BFBF;
+    }
+    h2{
+        font-family: 'Montserrat', sans-serif;
+        font-size: 2.5rem;
+        color: #66BFBF;
+    }
+    h3{
+        font-family: 'Merriweather', serif;
+        color:#11999E;
+    }
+    p{
+        font-family: 'Merriweather', serif;
+        line-height: 2;
+    }
+    hr{
+        border: dotted #EAF6F6 6px;
+        border-bottom: none;
+        width: 4%;
+
+    }
+    a{
+        font-family: 'Montserrat', sans-serif;
+        text-decoration: none;
+        color:#11999E;
+        margin: 10px 20px;
+    }
+
+    a:hover{
+        color: white;
+
+    }
+    
+    .top-cloud{
+        position:absolute;
+        right:250px;
+        top:40px;
+    }
+    .bottom-cloud{
+        position: absolute;
+        left: 300px;
+        bottom:300px;
+
+    }
+
+    .top-container{
+        background-color:#E8FFFF;
+        margin: 0;
+        padding: 50px;
+        text-align: center;
+    }
+    .middle-container{
+        text-align: center;
+    }
+    .skills{
+        margin:100px 0 40px auto;
+    }
+    .skill-row{
+       margin:100px auto ;
+        width: 50%;
+        text-align: left;
+        line-height: 2;
+    }
+    .bottom-container{
+        text-anchor: #11999E;
+        line-height:4;
+        
+    }
+
+    .profile-icon{
+        width: 10%;
+        margin: 40px;
+    }
+    
+    .icon-note{
+       width: 25%;
+       float: left;
+       margin: 30px;
+       ;
+       
+    }
+    .icon-computer{
+        width: 25%;
+        float: right;
+        margin:30px;
+    }
+    .contact-message{
+        width: 40%;
+        margin:50px auto;
+    }    
+    .btn {
+        background: #3498db;
+        background-image: linear-gradient(to bottom, #3498db, #2980b9);
+        border-radius: 15px;
+        
+        font-family: Arial;
+        color: #ffffff;
+        font-size: 20px;
+        padding: 10px 20px 10px 20px;
+        text-decoration: none;
+      }
+      
+      .btn:hover {
+        background: #3cb0fd;
+        border-radius: 15px;
+        background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+        text-decoration: none;
+      }
+    .bottom-container{
+        background-color: #66BFBF;
+        text-align: center;
+        font-family: 'Merriweather', serif;
+        margin-top:100px ;
+
+    }
+   .signature{
+    font-family: 'Montserrat', sans-serif;
+    color:white;
+    font-size: 0.75rem;
+    padding:10px 0;
+   }
+
+
+    
+    
+/*
+.body{
+        
+        font-family: 'Merriweather', serif;
+        text-align: center;
+        color:black;
+        margin:0;
+        
+         
+    }
+    h1{
+        font-family: 'Sacramento', cursive;
+        margin: 50px auto 0 auto ;
+        font-size: 5.625rem;
+        color: #66BFBF;
+    }
+    h2{
+        font-family: 'Montserrat', sans-serif;
+        font-size: 2.5rem;
+        font-weight: solid;
+        color: #66BFBF;
+        padding-bottom:10px;
+    }
+    h3{
+        font-family: 'Merriweather', serif;
+        font-size: 20px;
+        font-weight: lighter;
+        color:#11999E;
+    }
+    p{
+        font-family: 'Merriweather', serif;
+        line-height: 2;
+    }
+    hr{
+        border: dotted #EAF6F6 6px ;
+        border-bottom: none;
+        width:4%;
+        margin:100px auto;
+
+    }
+    
+    .top-cloud{
+        position:absolute;
+        right:300px;
+        top:40px;
+    }
+    .bottom-cloud{
+        position: absolute;
+        left:250px;
+        bottom:300;
+    }
+
+    .top-container{
+        background-color:#E8FFFF;
+        margin: 0;
+        padding: 50px;
+        text-align: center;
+    }
+    .middle-container{
+        margin: 100px 0;
+        text-align: center;
+    }
+    .skills{
+        margin:100px 0 40px auto;
+    }
+    .skill-row{
+       margin:100px auto ;
+       width: 50%;
+       text-align: left;
+    }
+    .contact-message{
+        width: 40%;
+        margin: 40px auto 60px;
+    }
+    .bottom-container{
+        text-anchor: #11999E;
+        line-height:4;
+        
+    }
+    .profile-icon{
+        width: 10%;
+        margin: 40px;
+    }
+    
+    .icon-note{
+       width: 25%;
+       float: left;
+       margin: 30px;
+       ;
+       
+    }
+    .icon-computer{
+        width: 25%;
+        float: right;
+        margin:30px;
+    }
+   
+    .contact-me {
+        font-family: 'Merriweather', serif;
+        
+    }
+    .btn {
+        background: #3498db;
+        background-image: linear-gradient(to bottom, #3498db, #2980b9);
+        border-radius: 15px;
+        
+        font-family: Arial;
+        color: #ffffff;
+        font-size: 20px;
+        padding: 10px 20px 10px 20px;
+        text-decoration: none;
+      }
+      
+      .btn:hover {
+        background: #3cb0fd;
+        border-radius: 15px;
+        background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+        text-decoration: none;
+      }
+    .bottom-container{
+        background-color: #66BFBF;
+        text-align: center;
+        font-family: 'Merriweather', serif;
+        margin-top:100px    ;
+
+    }
+    #end{
+        color: white;
+    }
+
+    .one{
+        background-color: red;
+        height: 200px;
+        width: 200px;
+        position: absolute;
+        left: 400px;
+        top: 400px; 
+    
+    }
+    .two{
+        background-color: blue;
+        height: 200px;
+        width: 200px;
+        position: absolute;
+        top: 0px;
+        left: 0px;
+
+    }
+    .three{
+        background-color: aquamarine;
+        height: 200px;
+        width: 200px;
+        position: absolute;
+        left: 200px;
+        top: 200px;
+    
+    }
+    */
+
